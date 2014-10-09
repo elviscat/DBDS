@@ -2,7 +2,7 @@ DBDS
 ====
 
 -
-This is an integractive pipeline (Python) that using Druids (DRUIDS—Detection of regions with unexpected internal deviation from stationarity, http://dx.doi.org/10.1002/jez.b.21032) to calculate and detect conservative sites in phylogenetic data set.
+This is an integrative pipeline (Python) that using Druids (DRUIDS—Detection of regions with unexpected internal deviation from stationarity, http://dx.doi.org/10.1002/jez.b.21032) to calculate and detect conservative sites in phylogenetic data set.
 Currently, the pipeline contains two steps.
 
 Step 1: Batch execute pyDruids.py and store analysis results in designated folder
